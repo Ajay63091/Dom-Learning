@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+.description {
+    font-size: 1.2em;
+    color: #666;
+}
+
+#container {
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+.btn {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+form {
+    margin-top: 20px;
+}
+
+.external-link {
+    display: block;
+    margin-top: 20px;
+}
